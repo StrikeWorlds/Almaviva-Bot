@@ -30,7 +30,7 @@ Replace `Almavivabot.py` with the name of your script (e.g., `visa_helper.py`).
 
 ---
 
-[![YouTube](https://img.shields.io/badge/لمشاهدة_البوت_تابع-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=N_X67nX9l0M)
+[![YouTube](https://img.shields.io/badge/لمشاهدة_البوت_تابع-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=QnS_o8xD11E)
 
 ---
 
