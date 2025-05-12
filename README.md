@@ -23,10 +23,10 @@ A simple Python tool that helps you quickly open visa application websites in Eg
 Make sure you have **Python 3.x** installed, then run:
 
 ```bash
-python Schengen.py
+python Almavivabot.py
 ```
 
-Replace `Schengen.py` with the name of your script (e.g., `visa_helper.py`).
+Replace `Almavivabot.py` with the name of your script (e.g., `visa_helper.py`).
 
 ---
 
